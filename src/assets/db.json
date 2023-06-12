@@ -1,0 +1,22 @@
+{
+  "customer": [
+    {
+      "name": "Mohamed Arkkam",
+      "email": "awafafaaf@gmail.com",
+      "phone": "01223466654",
+      "id": 1
+    },
+    {
+      "name": "esfeae easfawf",
+      "email": "awafafaaf@gmail.com",
+      "phone": "01223466654",
+      "id": 2
+    },
+    {
+      "name": "Mohamed",
+      "email": "drgdy@mail.com",
+      "phone": "5436785323",
+      "id": 3
+    }
+  ]
+}
